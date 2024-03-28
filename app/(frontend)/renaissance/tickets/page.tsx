@@ -30,7 +30,7 @@ export default function RenaissanceSpeakers() {
         </p>
       </div>
 
-      {/* <div className="grid max-w-2xl gap-4 mx-auto mb-8 md:grid-cols-2">
+      <div className="grid max-w-2xl gap-4 mx-auto mb-8 md:grid-cols-2">
         <div className="flex flex-col justify-between p-8 rounded-md bg-renaissance-light text-renaissance-dark">
           <div>
             <h2 className="mb-4 text-3xl font-bold">Northeastern Students</h2>
@@ -74,9 +74,9 @@ export default function RenaissanceSpeakers() {
             </p>
           </div>
         </div>
-      </div> */}
+      </div>
 
-      {/* <div className="max-w-2xl mx-auto">
+      <div className="max-w-2xl mx-auto">
         <p className="mt-2 text-center text-renaissance-dark/85 text-balance">
           If you require disability-related accommodations to participate in
           this event, please{' '}
@@ -89,7 +89,7 @@ export default function RenaissanceSpeakers() {
           </Link>{' '}
           by February 10th.
         </p>
-      </div> */}
+      </div>
     </div>
   )
 }
